@@ -2,3 +2,4 @@
 [Fri Mar 12 22:05:27.793934 2021] [mpm_winnt:notice] [pid 1856:tid 872] AH00456: Apache Lounge VC10 Server built: Jul 16 2013 11:15:41
 [Fri Mar 12 22:05:27.794933 2021] [core:notice] [pid 1856:tid 872] AH00094: Command line: 'C:\\Users\\Cliente Especial\\Documents\\GitHub\\DiarioMental/apache2/bin/httpd_usbwv8.exe -d C:/Users/Cliente Especial/Documents/GitHub/DiarioMental/apache2'
 [Fri Mar 12 22:05:28.135257 2021] [mpm_winnt:notice] [pid 1856:tid 872] AH00418: Parent: Created child process 2744
+[Fri Mar 12 22:05:30.717723 2021] [mpm_winnt:notice] [pid 2744:tid 784] AH00354: Child: Starting 64 worker threads.

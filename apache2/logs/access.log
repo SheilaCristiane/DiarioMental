@@ -1,0 +1,5 @@
+::1 - - [12/Mar/2021:22:05:50 -0300] "GET / HTTP/1.1" 200 213
+::1 - - [12/Mar/2021:22:06:01 -0300] "GET /diariomental/ HTTP/1.1" 200 3748
+::1 - - [12/Mar/2021:22:06:17 -0300] "POST /diariomental/? HTTP/1.1" 302 3825
+::1 - - [12/Mar/2021:22:06:17 -0300] "GET /diariomental/principal.php HTTP/1.1" 200 16462
+::1 - - [12/Mar/2021:22:06:24 -0300] "GET /diariomental/index.php HTTP/1.1" 200 3748
