@@ -1,0 +1,14 @@
+{
+    "name": "diario-mental/diario-mental",
+    "description": "Um sistema para auxiliar o monitoramento da sa\u0000de mental de seus usu\u0000rios.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "SheilaCristiane",
+            "email": "sheila.cristiane@escolar.ifrn.edu.br"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
